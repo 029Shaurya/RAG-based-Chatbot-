@@ -12,6 +12,9 @@ Significance:
 2. Privacy: As the model is run locally, the data is remained on the system. Hence privacy is maintained.
 
 NOTE: A samole pdf is used in this project. We can upload any pdf file.
+It is adviced to run this on GPU, but can also be run on CPU as well.
+
+Command to run the project: streamlit run app.py
 
 
 
